@@ -29,4 +29,4 @@ export const localhostUserToModel = ( localhostUser ) => {
         isActive,
         lastName: last_name,
     });
-} 
+}
