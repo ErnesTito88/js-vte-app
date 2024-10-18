@@ -4,8 +4,10 @@ button {
 }
 
 #current-page {
+    color: white !important;
     font-size: 1.3rem;
-    color: black !important;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
